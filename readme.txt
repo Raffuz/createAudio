@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="chatterbox-ui/src/assets/leleVoice.png" width="200" alt="Lele Voice Logo" />
-</p>
-
-
-
 🚀 Lele Voice - Guida di Avvio Locale
 Interfaccia web locale per il modello Chatterbox Multilingual TTS. Questo progetto è diviso in due server che devono essere eseguiti contemporaneamente.
 
