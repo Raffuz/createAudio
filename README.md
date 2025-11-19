@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="src/assets/leleVoice.png" width="200" alt="Lele Voice Logo" />
+  <img src="chatterbox-ui/src/assets/leleVoice.png" width="200" alt="Lele Voice Logo" />
 </p>
 
 🚀 Lele Voice - Guida di Avvio Locale
@@ -31,10 +30,10 @@ Porta: http://localhost:5173 (di solito)
 Assicurati di avere Anaconda e Node.js installati.
 
 1. Backend (Python)
-Assicurati che il tuo ambiente Conda chatterbox sia stato creato e che tutte le dipendenze Python (come fastapi, uvicorn, torch, chatterbox-tts) siano installate al suo interno.
+   Assicurati che il tuo ambiente Conda chatterbox sia stato creato e che tutte le dipendenze Python (come fastapi, uvicorn, torch, chatterbox-tts) siano installate al suo interno.
 
 2. Frontend (Node)
-Installa i pacchetti Node.js:
+   Installa i pacchetti Node.js:
 
 Bash
 
