@@ -1,5 +1,8 @@
 
-![Lele Voice](chatterbox-ui/src/assets/leleVoice.png)
+<p align="center">
+  <img src="chatterbox-ui/src/assets/leleVoice.png" width="200" alt="Lele Voice Logo" />
+</p>
+
 
 
 🚀 Lele Voice - Guida di Avvio Locale
